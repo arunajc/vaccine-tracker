@@ -1,0 +1,2360 @@
+{
+  "centers": [
+    {
+      "center_id": 171451,
+      "name": "Muttada UPHC",
+      "address": "Near Alappuram Park Greenvalley Lane Muttada Po",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Thiruvananthapuram",
+      "pincode": 695025,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d3998c83-b7ac-4888-a8cd-dbff7fd0b4a2",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171381,
+      "name": "Mangalapuram PHC",
+      "address": "Mangalapuram PHC Thonnakkal P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Puthenthope",
+      "pincode": 695317,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ee364813-c20c-4d19-b30c-077b915906be",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 694782,
+      "name": "Composite Hospital Pallipuram",
+      "address": "CRPF Rd Trivandrum Pallippuram Kerala 695316",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Thiruvananthapuram",
+      "pincode": 695316,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d3da491e-f607-4030-9d15-8b55794564f1",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158338,
+      "name": "Chirayinkeezhu Taluk Hospital",
+      "address": "Chirayinkeezhu Thqh Chirayinkeezhu P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Anchuthengu",
+      "pincode": 695304,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3e9af4a1-9861-4113-bc8b-b6b35b50da7e",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 627220,
+      "name": "VSSC Polyclinic Marappalam",
+      "address": "126 TKD Rd Marappalam Thiruvananthapuram Kerala 695004",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Thiruvananthapuram",
+      "pincode": 695004,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "90ca66fc-caf7-49f4-9751-835edf8bba8b",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171581,
+      "name": "Perumathura PHC",
+      "address": "Perumathura PHC Perumathura P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Anchuthengu",
+      "pincode": 695303,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "7dacc70c-0b2c-4e8a-8641-0cb6b2fc6b07",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 175458,
+      "name": "Pullanpara PHC",
+      "address": "Thembamoodu Pullampara P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vamanapuram",
+      "pincode": 695607,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "0ff42581-f756-4a91-a571-4b7cd8a923f7",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 588610,
+      "name": "Govt Ayurveda College",
+      "address": "Pulimoodu Thiruvananthapuram Kerala",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Thiruvananthapuram",
+      "pincode": 695007,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "7393792c-d80e-49e1-8f5f-8915eceb50cb",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 228042,
+      "name": "Mampazhakkara UPHC",
+      "address": "Mullaravila Perumpazhuthoor P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Perumkadavila",
+      "pincode": 695126,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8ae5d438-399f-4f32-9a56-370b9a000cbe",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158255,
+      "name": "Cherunniyoor PHC",
+      "address": "ThannimooduCherunniyoor P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Manamboor",
+      "pincode": 695142,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3fc51c85-d58b-43c1-8a59-1f59a3e33d68",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171508,
+      "name": "Panavoor PHC",
+      "address": "Panavoor Panavoor P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kanyakulangara",
+      "pincode": 695568,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "568bf9d6-c0a5-4b0f-83a6-87d3d40455d9",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 268223,
+      "name": "Thrikkannapuram UPHC",
+      "address": "Thrikkannapuram UPHC Thrikkannapuram",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Thiruvananthapuram",
+      "pincode": 695032,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "07219ecd-1c1a-478a-bfa3-8d638993350c",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171475,
+      "name": "Nemom TH",
+      "address": "Taluk Hospital Nemom Santhivila Nemom P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Nemom",
+      "pincode": 695020,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "17:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "eb0ffe7f-a879-4efc-8290-d1b776c124f0",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-05:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171521,
+      "name": "Pangappara PHC",
+      "address": "PangapparaPangappara P O Tvpm",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Thiruvananthapuram",
+      "pincode": 695581,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "31f9a8d6-6afb-4da6-aa4d-599978d3eae9",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171477,
+      "name": "Ottoor PHC",
+      "address": "Ottoor PHC Vadasserikonam P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Manamboor",
+      "pincode": 695143,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3bbf73a0-f0e3-4405-8919-980c14ad8ac6",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 198743,
+      "name": "Tholicode PHC",
+      "address": "Tholicode FHC Tholicode P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vithura",
+      "pincode": 695541,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "0ac16820-b72f-47f1-a152-67e8ddd68953",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158597,
+      "name": "Kanjiramkulam PHC",
+      "address": "Kanjiramkulam Kanjiramkulam P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Pulluvila",
+      "pincode": 695524,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "bbac382d-00d0-4767-a10a-f7d7bbce86c1",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 172093,
+      "name": "Vizhinjam New Mukkola PHC",
+      "address": "Vizhinjam New Mukkola PHC Neyyattinkara Thiruvananthapuram",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vizhinjam",
+      "pincode": 695523,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "2027b0d6-11bc-471f-ad18-a5765a0d24ca",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171432,
+      "name": "Mudakkal PHC",
+      "address": "Mudakal Elamba P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vakkom",
+      "pincode": 695103,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "2a246c2b-61fa-44e6-8b59-1c72cc37087c",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 627172,
+      "name": "Manickal PHC",
+      "address": "MANICKAL FHC  TVM",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vamanapuram",
+      "pincode": 695615,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "0eadf561-4516-414f-b01c-19d4896905b4",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158965,
+      "name": "Kuttichal PHC",
+      "address": "Kuttichal FHC Paruthippally P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vellanad",
+      "pincode": 695574,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "0984c0a4-f535-4b3c-8463-0cf8f06eb12c",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158700,
+      "name": "Keezhattingal PHC",
+      "address": "Keezhattingal FHC Keezhattingal Kadakkavoor P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Anchuthengu",
+      "pincode": 695306,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b2243b9f-22ac-48a4-a3fb-8fcb4ae6ab5e",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 580627,
+      "name": "Corporation Health Clinic",
+      "address": "Pettah Trivandrum",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Thiruvananthapuram",
+      "pincode": 695024,
+      "lat": 80,
+      "long": 80,
+      "from": "09:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b7b01179-44d0-41ad-b621-2296ebf516ea",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158380,
+      "name": "Kadakampally PHC",
+      "address": "Kadakampally FHC Venpalavattom Anayara P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Poonthura",
+      "pincode": 695029,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8facc743-651e-4d74-80d6-1c8693627ea5",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 157393,
+      "name": "Adayamon PHC",
+      "address": "Adayamon Adayamon P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kesavapuram",
+      "pincode": 695614,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "56201d54-ca07-430b-a826-41fbbd0ebd54",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 198742,
+      "name": "Puthukurichi PHC",
+      "address": "Kadinamkulam Chirayinkeezhu Puthukurichi P O Thiruvananthapuram",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Puthenthope",
+      "pincode": 695303,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "56e112a6-bd05-41b5-8828-fe9532c4cc14",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171793,
+      "name": "Thonnackal PHC",
+      "address": "Thonnackal FHC Kudavoor P O Vengodu Jn.",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Puthenthope",
+      "pincode": 695313,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "45ec1bd8-0427-4d0e-9194-5a81c37dc9b9",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171774,
+      "name": "Thonippara PHC",
+      "address": "Thonippara PHC Pallimukku Hariharapuram P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Manamboor",
+      "pincode": 695310,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8639563b-ad23-4620-a251-0de75e20f07a",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158994,
+      "name": "Malayadi PHC",
+      "address": "Malayadi Vinobanikethan P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vithura",
+      "pincode": 695542,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8f847b3b-5eb0-46da-947b-ef01c89de769",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158516,
+      "name": "Kallikkad Old PHC",
+      "address": "Kallikkad Old PHC Veeranakav P",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vellanad",
+      "pincode": 695572,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "640c7251-0d7e-4e1d-b9ca-ed0ec1a8a071",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158751,
+      "name": "Kizhuvilam PHC",
+      "address": "Kizhuvilam PHC Pukayilathoppu Kurakkada P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vakkom",
+      "pincode": 695104,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ef89b0f6-2aea-45ca-8309-add6d81f97d6",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158212,
+      "name": "Chenkal PHC",
+      "address": "Chenkal Vattavila P O Thiruvananthapuram",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Poovar",
+      "pincode": 695134,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d4a888c3-8986-4de7-90d9-0217f3a41415",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171841,
+      "name": "Vattiyoorkavu FHC",
+      "address": "Vattiyoorkavu FHC Kulasekharam Kodunganoor P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Poonthura",
+      "pincode": 695013,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ad52e0a1-f60e-4f07-8fb5-410a2951352a",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158021,
+      "name": "Azhoor PHC",
+      "address": "Gandhismarakam Azhoor Chirayinkeezhu Thiruvananthapuram Kerala",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Anchuthengu",
+      "pincode": 695305,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "12d54280-941d-4995-a0c7-68c6eac3d02a",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171633,
+      "name": "Poozhanad FHC",
+      "address": "Poozhanad FHC Poozhanad P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Perumkadavila",
+      "pincode": 695125,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "728dec17-2951-43ba-b9ef-2e8b0dd191f4",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158649,
+      "name": "Karakulam PHC",
+      "address": "Karakulam FHC Vattappara P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kanyakulangara",
+      "pincode": 695028,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "364fbe20-76db-417e-95b8-12bba3ca64d6",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 157635,
+      "name": "Anakudi PHC",
+      "address": "Anakudy Karimkuttykkara P O Thiruvananthapuram",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vamanapuram",
+      "pincode": 695606,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "8898a0e5-5113-40f1-a162-71d71de54fa2",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158303,
+      "name": "Chettivilakom PHC",
+      "address": "KudappanakunnuMukkolakkal P O Thiruvananthapuram",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Poonthura",
+      "pincode": 695043,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "be9d4f90-8986-418b-85a3-c913f9abe6cc",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171734,
+      "name": "Thiruvallam PHC",
+      "address": "Thiruvallam Thiruvallam P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vizhinjam",
+      "pincode": 695027,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "126862c5-8841-4636-b42d-0afe5a64d2d0",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158340,
+      "name": "Edava PHC",
+      "address": "Edava PHC Edava P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Manamboor",
+      "pincode": 695311,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "c040ae27-2bd8-4301-92cf-ea828bc7ef9c",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171987,
+      "name": "Vettoor PHC",
+      "address": "Vettoor PHC Vettoor P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Manamboor",
+      "pincode": 695312,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4a05e9f9-6227-4a01-95ca-d9661a083d69",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158566,
+      "name": "Kalliyoor PHC",
+      "address": "Kalliyoor PHC Kalliyoor P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vilappil",
+      "pincode": 695042,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ff52aa59-03c0-4b3a-b407-5adc8e386bfa",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171463,
+      "name": "Navaikulam PHC",
+      "address": "Thattupalam Navaikulam P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kesavapuram",
+      "pincode": 695603,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "7e80724f-fa72-4200-9aad-bf01d0ee9dcf",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 175495,
+      "name": "Uzhamalkkal PHC",
+      "address": "Uzhamalakkal PHC Puthukkulangara P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vellanad",
+      "pincode": 695541,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ab53662e-01d0-47d1-93c3-1dd1ba318c41",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158178,
+      "name": "Chemmaruthi PHC",
+      "address": "Chemmaruthy FHC Panayara P O Varkala",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Manamboor",
+      "pincode": 695145,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4123bb33-e038-4fc6-a189-592a8c6570b6",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171456,
+      "name": "Nagaroor PHC",
+      "address": "Altharamoodu Altharamoodu P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kesavapuram",
+      "pincode": 695102,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "87ec4a8a-ffd3-419f-a8e6-07a2cc3092f7",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171651,
+      "name": "Pozhiyoor PHC",
+      "address": "Pozhiyoor FHC Pozhiyoor P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Poovar",
+      "pincode": 695513,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ebd0bb76-c67f-45f3-a2e8-84b53953a658",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158778,
+      "name": "Kollayil PHC",
+      "address": "Kollyil Dhanuvachapuram P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Perumkadavila",
+      "pincode": 695503,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "f802b53b-cf3a-41cb-81b5-a9af44c04850",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 176933,
+      "name": "Peringamala PHC",
+      "address": "Peringammala Primary Health Centre  Peringamala P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vithura",
+      "pincode": 695563,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5a352b91-b0be-41cb-81b9-27eaaf6a940d",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171345,
+      "name": "Kulathoor PHC",
+      "address": "Kulathoor Uchakkada P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Poovar",
+      "pincode": 695506,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "7a5e05cb-5507-422c-afef-3dec1135c007",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 685744,
+      "name": "Amachal PHC",
+      "address": "Amachal FHC Amachal P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vellanad",
+      "pincode": 695572,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "11828b30-ac79-4d36-ad37-756938b1f985",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 157569,
+      "name": "Anad PHC",
+      "address": "Anad FHC Anad P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kanyakulangara",
+      "pincode": 695541,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3b786f79-2e28-4469-9968-c6cd7302000f",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158986,
+      "name": "Madavoor PHC",
+      "address": "Madavoor PHC Puliyoorkonam P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kesavapuram",
+      "pincode": 695604,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "fea03c26-b35a-4802-94b3-92374a45684a",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171676,
+      "name": "Pulimath PHC",
+      "address": "Kattumpuram Maincentre Kattumpuram P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kesavapuram",
+      "pincode": 695608,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "1be07769-bb27-4c5e-be9d-5f227231d5ef",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171933,
+      "name": "Vembayam PHC",
+      "address": "Near Vembayam Pachayath OfficeVettinad Konchira P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kanyakulangara",
+      "pincode": 695615,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ee769cb4-b789-4c63-8341-74095d73b9bc",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171881,
+      "name": "Veli PHC",
+      "address": "Veli PHC ValiyaVeli P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Puthenthope",
+      "pincode": 695021,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "82bf0cd5-f30e-40b0-a514-44c300449908",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171419,
+      "name": "Maranalloor PHC",
+      "address": "Maranalloor PHC Maranalloor",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vilappil",
+      "pincode": 695512,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "e3e075ff-b460-4062-b73a-037fd2669e13",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 157500,
+      "name": "Amboori PHC",
+      "address": "Amboori FHC Mayam P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vellarada",
+      "pincode": 695505,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "3ad03e14-6eac-41ba-8d17-2989ca7921b8",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158736,
+      "name": "Kilimanoor PHC",
+      "address": "Kilimanoor Mulaykkalathkaavu P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kesavapuram",
+      "pincode": 695614,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "c5905762-6560-4eef-9431-3ac1c7eb1713",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 198679,
+      "name": "Parassuvaikkal PHC",
+      "address": "Main Centre Parasuvaikkal PHC Parasuvaikkal P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Poovar",
+      "pincode": 695508,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "97c211a4-3e39-4c33-8539-fc8c863acabe",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 199507,
+      "name": "Military Hospital Pangodu",
+      "address": "Military Hospital  Pangode",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Thiruvananthapuram",
+      "pincode": 695006,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "ed588e3f-95d6-46e0-a5fe-7a57e299ae1c",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 654548,
+      "name": "Community Hall Kalippamkulam",
+      "address": "Payattikuppam Rd Manacaud Thiruvananthapuram Kerala",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Thiruvananthapuram",
+      "pincode": 695009,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "16:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "a5f04929-4d92-4704-a97a-d1f1fc38314f",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-11:00AM",
+            "11:00AM-01:00PM",
+            "01:00PM-03:00PM",
+            "03:00PM-04:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 157816,
+      "name": "Aruvikkara PHC",
+      "address": "Aruvikkara Aruvikkar P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kanyakulangara",
+      "pincode": 695564,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4d86a12c-fe65-4ecd-a333-a10421a1ea03",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158063,
+      "name": "Balaramapuram PHC",
+      "address": "Balaramapuram FHC Balaramapuram P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vilappil",
+      "pincode": 695501,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "d7df10f6-33ee-4276-9b7e-470bbc129290",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158697,
+      "name": "Karode PHC",
+      "address": "Karode FHC Karode P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Poovar",
+      "pincode": 695506,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "09fbf04d-0e47-45e7-8ef1-886bc605c9de",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158472,
+      "name": "Kallikkad New PHC",
+      "address": "Kallikkad New PHC Neyyardam P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vellarada",
+      "pincode": 695572,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "4b93a842-24b0-4a5a-a3f9-dbc13b83b986",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 176915,
+      "name": "Pallichal PHC",
+      "address": "Pallichal FHC Thannivila  Balaramapuram P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vilappil",
+      "pincode": 695501,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "50d6f0f8-6b37-45c8-9f65-9cdb51f53c6c",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158109,
+      "name": "Bharathanoor PHC",
+      "address": "Bharathannoor PHC Bharathannoor P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kallara",
+      "pincode": 695609,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "da99c054-8819-40da-8788-ce5d1cb3cf12",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171549,
+      "name": "Paraniyam PHC",
+      "address": "Paraniyam Poovar P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Poovar",
+      "pincode": 695525,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "99af25a3-96f8-4b31-abbb-ac796633b551",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 175441,
+      "name": "Perumpazhthoor PHC",
+      "address": "Perumpazhthoor PHC Perumpazhuhthoor",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Perumkadavila",
+      "pincode": 695121,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "40067835-a8ca-4f9b-abf8-80aec3ac6ef3",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158905,
+      "name": "Kunnathukal PHC",
+      "address": "Kattachalvila Kunnathukal P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vellarada",
+      "pincode": 695504,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "bf8f8d84-9240-464f-9eff-800366061826",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158137,
+      "name": "Chemboor PHC",
+      "address": "Chemboor Ottasekharamangalam P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Perumkadavila",
+      "pincode": 695125,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "11e3d989-120c-4b17-baa8-2ae2b0ed4f0d",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158815,
+      "name": "Kottukal PHC",
+      "address": "Punnakulam Kottukal P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Venpakal",
+      "pincode": 695501,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "b0e00df0-9efb-48a4-a74b-35bce59f36aa",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 172011,
+      "name": "Vilavoorkal PHC",
+      "address": "Pottayil  Malayinkeezhu P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vilappil",
+      "pincode": 695571,
+      "lat": 8,
+      "long": 77,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "402af3fa-2bfb-4bc0-91b6-2b686078a2a8",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 158673,
+      "name": "Karavaram PHC",
+      "address": "Karavaram PHC  Thottakkad P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Kesavapuram",
+      "pincode": 695605,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "9f7d620c-7941-4e2e-af85-5d5685ad0ee9",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    },
+    {
+      "center_id": 171926,
+      "name": "Vellayani PHC",
+      "address": "Vellayani Near Vellayani College Of Agriculture Vellayani P O",
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "block_name": "Vilappil",
+      "pincode": 695522,
+      "lat": 8,
+      "long": 76,
+      "from": "09:00:00",
+      "to": "15:00:00",
+      "fee_type": "Free",
+      "sessions": [
+        {
+          "session_id": "5059341e-c7b6-4fb5-b720-7a7036644bac",
+          "date": "22-05-2021",
+          "available_capacity": 0,
+          "min_age_limit": 45,
+          "vaccine": "COVISHIELD",
+          "slots": [
+            "09:00AM-10:00AM",
+            "10:00AM-11:00AM",
+            "11:00AM-12:00PM",
+            "12:00PM-03:00PM"
+          ],
+          "available_capacity_dose1": 0,
+          "available_capacity_dose2": 0
+        }
+      ]
+    }
+  ]
+}
